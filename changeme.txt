@@ -1,1 +1,3 @@
-Make some changes to this file. This is the change.
+Adding a new line at the top of this file.
+
+Make some changes to this file some change that will conflict. This is the change.
